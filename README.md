@@ -1,4 +1,4 @@
-# Groovy-From-Zero-To-Hero
+# Gם-From-Zero-To-Hero
 This is my Groovy studying repository
 
 # Prerequisites
