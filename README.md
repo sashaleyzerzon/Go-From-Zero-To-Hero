@@ -4,6 +4,7 @@ This is my Go studying repository
 # Prerequisites
 1. Verify Git is installed
 2. Install Go on the workstation. 
+3. Get the Go extension for VS Code.
 
 # References
 1. Go Documentation.
