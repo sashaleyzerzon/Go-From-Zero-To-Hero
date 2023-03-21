@@ -8,5 +8,7 @@ This is my Go studying repository
 
 # References
 1. Go Documentation.
-2. Golang Tutorial for Beginners | TechWorld with Nana 
+2. This fantastic tutorial by @bergman-arie:
+[go-exercises](https://github.com/bregman-arie/go-exercises/blob/main/exercises/variables/exercise.md)
+3. Golang Tutorial for Beginners | TechWorld with Nana 
 [![Golang Tutorial for Beginners](https://img.youtube.com/watch?v=yyUHQIec83I/0.jpg)](https://www.youtube.com/watch?v=yyUHQIec83I)
