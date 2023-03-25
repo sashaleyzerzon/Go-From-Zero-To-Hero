@@ -4,7 +4,11 @@ This is my Go studying repository
 # Prerequisites
 1. Verify Git is installed
 2. Install Go on the workstation. 
-3. Get the Go extension for VS Code.
+3. Get VS Code + Go extension for VS Code.
+
+# Scripting
+• After runnning the script, initialize the module (go mod init..)
+• Running the script: go run <script_name>
 
 # References
 1. Go Documentation.
